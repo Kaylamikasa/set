@@ -5,9 +5,9 @@
  
 "sites": [
  
-{"key": "豆瓣1","name": "豆瓣1","type": 3,"searchable": 0,"quickSearch": 0,"api": "https://framagit.org/nancytrump/jjihk/-/raw/main/lib/hipy/drpy2.min.js","ext": "https://raw.githubusercontent.com/Kaylamikasa/set/refs/heads/kz/js/douban.js"},
+{"key": "豆瓣1","name": "豆瓣1","type": 3,"searchable": 0,"quickSearch": 0,"api": "https://raw.githubusercontent.com/Kaylamikasa/set/refs/heads/dl/js/lib/drpy2.min.js","ext": "https://raw.githubusercontent.com/Kaylamikasa/set/refs/heads/kz/js/douban.js"},
 {"key":"dr_武享吧","name":"武享|DR","type":3,"searchable": 0,"quickSearch": 0,"api":"https://framagit.org/nancytrump/jjihk/-/raw/main/lib/hipy/drpy2.min.js","changeable":0,"ext":"https://raw.githubusercontent.com/Kaylamikasa/set/refs/heads/kz/js/武享吧.js"},
-{"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"searchable": 0,"quickSearch": 0,"api":"https://framagit.org/nancytrump/jjihk/-/raw/main/lib/hipy/drpy2.min.js","ext":"https://raw.githubusercontent.com/Kaylamikasa/set/refs/heads/kz/js/huyazb.js"},
+{"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"searchable": 0,"quickSearch": 0,"api":"https://raw.githubusercontent.com/Kaylamikasa/set/refs/heads/dl/js/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/Kaylamikasa/set/refs/heads/kz/js/huyazb.js"},
 {"key":"drpy_js_斗鱼直播","name":"直播 | 斗鱼[js]","type":3,"searchable": 0,"quickSearch": 0,"api":"https://framagit.org/nancytrump/jjihk/-/raw/main/lib/hipy/drpy2.min.js","ext":"https://raw.githubusercontent.com/Kaylamikasa/set/refs/heads/kz/js/douyuzb.js"},
 {"key": "js_nangua","name": "🎃┃南瓜┃影视","type": 3,"searchable": 1,"quickSearch": 1,"api": "https://framagit.org/nancytrump/jjihk/-/raw/main/lib/hipy/drpy2.min.js","ext": "https://gitlab.com/j6873006/h/-/raw/main/nangua.js"},
 {"key":"drpy_js_厂长资源","name":"影视 | 厂长资源[js]","searchable": 1,"quickSearch": 1,"type": 3,"api": "https://framagit.org/nancytrump/jjihk/-/raw/main/lib/hipy/drpy2.min.js","ext": "https://raw.githubusercontent.com/Kaylamikasa/set/refs/heads/kz/js/czspp.js"},
@@ -513,3 +513,4 @@
 
 
    
+
